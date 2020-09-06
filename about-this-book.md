@@ -11,8 +11,11 @@ There is a link at the end of each chapter of the online version of this book th
 
 1.关于本书
 
-这本书是关于 JavaScript 两个版本：
+本书介绍了 JavaScript 的两个版本：
 
 - ECMAScript 2018
 - ECMAScript 2019
+  它仅仅覆盖了这些版本中的新内容。如果想要获取其他版本内容可以参考我写的另外几本书，在 ExploringJS.com 上是在线免费阅读。
 
+1.1. 反馈和订正
+线上电子书每个章节的末尾有一个链接可以让你留下对章节的评论。
